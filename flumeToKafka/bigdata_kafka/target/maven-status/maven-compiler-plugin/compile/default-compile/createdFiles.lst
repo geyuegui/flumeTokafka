@@ -1,0 +1,4 @@
+com\geyuegui\com\App.class
+com\geyuegui\com\config\KafkaConfig.class
+com\geyuegui\com\constance\kafkaKeySerializer.class
+com\geyuegui\com\producer\LogProducer.class

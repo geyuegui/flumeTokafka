@@ -1,0 +1,3 @@
+com\geyuegui\com\App.class
+com\geyuegui\flume\source\FoldSource.class
+com\geyuegui\flume\sink\FoldSink.class
